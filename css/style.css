@@ -11,12 +11,16 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+header {
+    margin-bottom: 20px;
+}
+
 .bg-white {
     background-color: #fff;
 }
 
 #logo-title {
-    display: inline-block;
+    display: inline;
     vertical-align: middle;
 }
 
@@ -26,3 +30,31 @@ body {
 }
 
 /* Utils */
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.small {
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+/* Header */
+
+button {
+    height: 30px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.button-blue {
+    margin: 10px 0px 10px 30px;
+    background-color: #1E90FF;
+    border-style: unset;
+}
+
+.button-white {
+    color: #8D8D8D;
+    /* border-color: #8D8D8D; */
+}

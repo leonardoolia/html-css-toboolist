@@ -4,3 +4,12 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+/* Generics */
+body {
+    background-color: #a1a1a1;
+}
+
+.bg-white {
+    background-color: #fff;
+}

@@ -40,8 +40,7 @@ header {
     border-top-right-radius: 5px;
 }
 
-/* Header */
-
+/* Small container */
 button {
     height: 30px;
     padding: 5px;
@@ -51,6 +50,7 @@ button {
 .button-blue {
     margin: 10px 0px 10px 30px;
     background-color: #1E90FF;
+    color: #fff;
     border-style: unset;
 }
 

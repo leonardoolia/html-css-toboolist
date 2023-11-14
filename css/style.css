@@ -43,6 +43,11 @@ header {
 }
 
 .big {
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.big {
     padding: 30px 0px 5px 10px;
 
 }
@@ -81,7 +86,7 @@ button {
     border-width: 1px;
 }
 
-/* Liste */
+/* Big container */
 
 .check {
     color: #54A354;
@@ -118,4 +123,12 @@ button {
 
 .lbl-orange {
     background-color: #F29E33;
+}
+
+.lbl-pink {
+    background-color: #D863A1;
+}
+
+.lbl-golden {
+    background-color: #B0C926;
 }

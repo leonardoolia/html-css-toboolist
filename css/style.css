@@ -63,6 +63,11 @@ h2 {
 
 li {
     margin: 10px;
+    line-height: 20px;
+}
+
+span {
+    display: inline-block;
 }
 
 
@@ -93,6 +98,9 @@ button {
     border: 1px solid #54A354;
     border-radius: 50%;
     padding: 2px;
+    height: 20px;
+    width: 20px;
+    text-align: center;
 }
 
 .cross {
@@ -100,6 +108,9 @@ button {
     border: 1px solid #FF6D6D;
     border-radius: 50%;
     padding: 2px;
+    height: 20px;
+    width: 20px;
+    text-align: center;
 }
 
 .label {

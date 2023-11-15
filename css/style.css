@@ -25,6 +25,7 @@ header {
 #logo-title {
     display: inline;
     vertical-align: middle;
+    font-weight: 900;
 }
 
 #logo-image {

@@ -11,8 +11,11 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+/* Utils */
+
 header {
     margin-bottom: 20px;
+    padding-left: 10px;
 }
 
 .bg-white {
@@ -30,7 +33,7 @@ header {
 }
 
 
-/* Utils */
+
 .container {
     max-width: 600px;
     margin: 0 auto;
